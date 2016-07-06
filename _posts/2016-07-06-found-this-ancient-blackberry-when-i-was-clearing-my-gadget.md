@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-06T02:23:23.208Z'
+datePublished: '2016-07-06T02:24:24.757Z'
+sourcePath: >-
+  _posts/2016-07-06-found-this-ancient-blackberry-when-i-was-clearing-my-gadget.md
 author: []
-dateModified: '2016-07-06T02:23:15.503Z'
-title: ''
+dateModified: '2016-07-06T02:24:21.098Z'
+title: Blackberry Mobile Phone
 description: >-
   Found this ancient BlackBerry when I was clearing my gadget closet today. What
   do you know, it still works after all these years. I’m wondering what to do
   with it. I can’t throw away something that still works.
 starred: false
-sourcePath: >-
-  _posts/2016-07-06-found-this-ancient-blackberry-when-i-was-clearing-my-gadget.md
 inFeed: true
 hasPage: true
 inNav: false
