@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[> 140 Characters]]></title>
         <description><![CDATA[> 140 Characters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/140-characters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 02:17:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jul 2016 02:24:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/140-characters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6574c9d-3cdd-4413-8ff8-d022235b80ef.jpg" alt="Found this ancient BlackBerry when I was clearing my gadget closet today. What do you know, it still works after all these years. I&rsquo;m wondering what to do with it. I can&rsquo;t throw away something that still works.">]]></description>
+            <link>https://thegrid.ai/140-characters/found-this-ancient-blackberry-when-i-was-clearing-my-gadget/index.html</link>
+            <guid isPermaLink="false">8cc98273-236b-48b8-abdc-40cf89cb9919</guid>
+            <pubDate>Wed, 06 Jul 2016 02:23:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet the Real Alice: How the Story of Alice in Wonderland Was Born]]></title>
             <description><![CDATA[<article><h1>Meet the Real Alice: How the Story of Alice in Wonderland Was Born</h1><p>After so many years of this story being read or watched on TV, this is the first time I read about how it came into being. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/318bfe480c07a5565d49e20bbd087318/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fwww.brainpickings.org%2Fwp-content%2Fuploads%2F2012%2F07%2Faliceliddell5.jpg%3Fw%3D680%26ssl%3D1"></article>]]></description>
