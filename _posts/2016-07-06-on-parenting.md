@@ -4,8 +4,8 @@ description: >-
   we’re teaching them right and allowing them to attain their full potential.
   Keeping them happy is a full time job for which you don’t get time at all if
   we don’t get your work-parenting balance right.
-dateModified: '2016-07-06T02:39:57.930Z'
-datePublished: '2016-07-06T02:40:00.932Z'
+dateModified: '2016-07-06T02:40:04.141Z'
+datePublished: '2016-07-06T02:57:48.313Z'
 title: On Parenting
 author: []
 sourcePath: _posts/2016-07-06-on-parenting.md
