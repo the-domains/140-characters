@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[> 140 Characters]]></title>
+        <description><![CDATA[> 140 Characters]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jul 2016 02:17:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet the Real Alice: How the Story of Alice in Wonderland Was Born]]></title>
+            <description><![CDATA[<article><h1>Meet the Real Alice: How the Story of Alice in Wonderland Was Born</h1><p>After so many years of this story being read or watched on TV, this is the first time I read about how it came into being. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/318bfe480c07a5565d49e20bbd087318/noop.jpg?input=https%3A%2F%2Fi2.wp.com%2Fwww.brainpickings.org%2Fwp-content%2Fuploads%2F2012%2F07%2Faliceliddell5.jpg%3Fw%3D680%26ssl%3D1"></article>]]></description>
+            <link>https://t.co/z2QNiaTlDS</link>
+            <guid isPermaLink="false">02faca5b-9d3a-4ba1-a52a-ed751110cd00</guid>
+            <pubDate>Wed, 06 Jul 2016 02:17:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
