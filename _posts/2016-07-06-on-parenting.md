@@ -4,8 +4,8 @@ description: >-
   we’re teaching them right and allowing them to attain their full potential.
   Keeping them happy is a full time job for which you don’t get time at all if
   we don’t get your work-parenting balance right.
-dateModified: '2016-07-06T02:40:04.141Z'
-datePublished: '2016-07-06T02:57:48.313Z'
+dateModified: '2016-07-08T13:22:47.783Z'
+datePublished: '2016-07-08T13:22:53.407Z'
 title: On Parenting
 author: []
 sourcePath: _posts/2016-07-06-on-parenting.md
@@ -18,11 +18,10 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/696aaeb0-6581-495b-a4bb-7c7bf71ece4d.jpg)
-
 # On Parenting
 
 It's tough being a parent, not knowing if we're bringing up our kids right. If we're teaching them right and allowing them to attain their full potential. Keeping them happy is a full time job for which you don't get time at all if we don't get your work-parenting balance right.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88a400c0-657d-42b7-8a8a-bd8bbf24f9f1.jpg)
 
 As parents we're not alone. Here are some words of wisdom from parents who've been there and done that.
 
